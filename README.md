@@ -13,7 +13,7 @@ A simple and responsive product listing page built with HTML, CSS, and JavaScrip
 
 ## 📸 Demo
 
-🔗 [Live Demo] : https://unicrop-biochem.netlify.app/ 
+🔗 https://unicrop-biochem.netlify.app/ 
 
 ## 🛠️ Tech Stack
 
